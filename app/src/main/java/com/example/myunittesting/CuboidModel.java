@@ -1,6 +1,6 @@
 package com.example.myunittesting;
 
-public class CuboidModel {
+class CuboidModel {
     double width;
     double length;
     double height;
